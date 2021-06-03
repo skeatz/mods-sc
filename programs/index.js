@@ -22,6 +22,7 @@ program_menu('      mill 2D PCB png','programs/machines/G-code/mill%202D%2
 program_menu('      mill 2D PCB svg','programs/machines/G-code/mill%202D%20PCB%20svg')
 program_menu('      mill 2D png','programs/machines/G-code/mill%202D%20png')
 program_menu('      mill 2D svg','programs/machines/G-code/mill%202D%20svg')
+program_menu('      mill 3D stl','programs/machines/G-code/mill%203D%20stl')
 program_label('   RNDMC')
 program_menu('      honeycomb connect','programs/machines/RNDMC/honeycomb%20connect')
 program_label('   Roland')
